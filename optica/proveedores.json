@@ -1,0 +1,16 @@
+[{
+  "_id": 1,
+  "nombre": "gafasEva",
+  "telefono": "111-222-333",
+  "fax": "44-555-6666",
+  "NIF": "35.413.765F",
+  "direccion": {
+    "calle": "almagro",
+    "numero": 123,
+    "piso": 2,
+    "puerta": "a",
+    "codPostal": "08042",
+    "ciudad": "barcelona",
+    "pais": "españa"
+  }
+}]

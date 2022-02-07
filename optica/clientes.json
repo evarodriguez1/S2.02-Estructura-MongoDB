@@ -1,0 +1,18 @@
+[{
+  "_id": 1,
+  "nombre": "ruben",
+  "cp": "08042",
+  "tel": "987-675-333",
+  "email": "ruben@hotmail.com",
+  "fecha_reg": "2022-01-04",
+  "compras": [
+    {
+      "vendedor": "marcelo",
+      "gafas_id": 1
+    },
+    {
+      "vendedor": "lidia",
+      "gafas_id": 2
+    }
+  ]
+}]
