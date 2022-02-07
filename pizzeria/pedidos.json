@@ -1,0 +1,20 @@
+[{
+  "_id": 1,
+  "cliente_id": 1,
+  "tienda_id": 1,
+  "fecha": "2022-01-05 16:34",
+  "tipo": "domicilio",
+  "precio": 49,
+  "fecha_entrega": "2022-01-05 16:57",
+  "repartidor": "eva",
+  "productos": [
+    {
+      "producto_id": 1,
+      "cantidad": 1
+    },
+    {
+      "producto_id": 2,
+      "cantidad": 2
+    }
+  ]
+}]

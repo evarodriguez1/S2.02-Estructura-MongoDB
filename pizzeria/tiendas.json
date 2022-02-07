@@ -1,0 +1,23 @@
+[{
+  "_id": 1,
+  "direccion": "via julia 34",
+  "cp": "08043",
+  "localidad": "barcelona",
+  "provincia": "barcelona",
+  "empleados": [
+    {
+      "nombre": "marc",
+      "apellido": "gertru",
+      "NIF": "34659876R",
+      "tel": "685036496",
+      "trabajo": "cocinero"
+    },
+    {
+      "nombre": "lucia",
+      "apellido": "garcia",
+      "NIF": "67483546G",
+      "tel": "685857697",
+      "trabajo": "repartidor"
+    }
+  ]
+}]

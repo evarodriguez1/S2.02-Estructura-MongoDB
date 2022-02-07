@@ -1,0 +1,10 @@
+[{
+  "_id": 1,
+  "nombre": "ruben",
+  "apellido": "garcia",
+  "direccion": "provenza 23",
+  "cp": "08010",
+  "localidad": "barcelona",
+  "provincia": "barcelona",
+  "telefono": "654-065-495"
+}]
